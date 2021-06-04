@@ -37,13 +37,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:rgb(255, 128, 0);
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: rgb(255, 128, 0;
     text-decoration: none;
 }
 
