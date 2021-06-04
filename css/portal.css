@@ -1,10 +1,10 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Archivo');
 
 html {
     background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Archivo', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
