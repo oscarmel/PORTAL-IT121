@@ -1,23 +1,23 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Archivo');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
-    font-family: 'Archivo', sans-serif;
+    background-color: #687A8F;
+    font-family: 'Optima', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background: #F7C331;
 }
 
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: rgb(174, 195, 235);
     line-height: 2.5em;
 }
 
